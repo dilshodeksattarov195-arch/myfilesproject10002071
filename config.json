@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdalculate",
+        "uuid": 18266220,
+        "checksum": "ds7achr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
